@@ -671,14 +671,14 @@
   </url>
   
   <url>
-    <loc>http://makoblog.love/tags/Bar/</loc>
+    <loc>http://makoblog.love/tags/%E9%AD%94%E6%94%B9/</loc>
     <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://makoblog.love/tags/%E9%AD%94%E6%94%B9/</loc>
+    <loc>http://makoblog.love/tags/Bar/</loc>
     <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
