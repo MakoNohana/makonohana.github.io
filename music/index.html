@@ -3,13 +3,13 @@
 <meta property="og:url" content="http://makoblog.love/music/index.html">
 <meta property="og:site_name" content="茉子小屋">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://s2.loli.net/2022/11/09/Et3Yh7GslKX8FwA.webp">
+<meta property="og:image" content="https://s2.loli.net/2022/11/09/95LaCNrd8BKXeSt.webp">
 <meta property="article:published_time" content="2018-06-07T14:17:49.000Z">
 <meta property="article:modified_time" content="2023-04-10T15:33:33.976Z">
 <meta property="article:author" content="MAKO">
 <meta property="article:tag" content="博客,blog,hexo,hexo静态博客,hexo教程,hexo美化教程,hexo博客主题,hexo开源主题">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://s2.loli.net/2022/11/09/Et3Yh7GslKX8FwA.webp"><link rel="shortcut icon" href="https://unpkg.com/plasx@1.0.3/img/favicon.webp"><link rel="canonical" href="http://makoblog.love/music/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="https://npm.elemecdn.com/blog2023@1.0.2/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/6.2.0/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/node-snackbar/0.1.16/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/@fancyapps/ui@4.0.31/dist/fancybox.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/swiper@8.4.2/swiper-bundle.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+<meta name="twitter:image" content="https://s2.loli.net/2022/11/09/95LaCNrd8BKXeSt.webp"><link rel="shortcut icon" href="https://unpkg.com/plasx@1.0.3/img/favicon.webp"><link rel="canonical" href="http://makoblog.love/music/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="stylesheet" href="https://npm.elemecdn.com/blog2023@1.0.2/index.css"><link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/6.2.0/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/node-snackbar/0.1.16/snackbar.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/@fancyapps/ui@4.0.31/dist/fancybox.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/swiper@8.4.2/swiper-bundle.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
   root: '/',
   algolia: undefined,
   localSearch: {"path":"https://cdn.jsdelivr.net/gh/plasx520/blog@main/search.xml","preload":true,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
@@ -166,7 +166,7 @@ if (true) {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'blogcomment-2gk8teend7d2667d',
+      envId: 'https://mangodb.vercel.app',
       region: 'ap-guangzhou',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -178,7 +178,7 @@ if (true) {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'blogcomment-2gk8teend7d2667d',
+      envId: 'https://mangodb.vercel.app',
       region: 'ap-guangzhou',
       urls: [window.location.pathname],
       includeReply: false

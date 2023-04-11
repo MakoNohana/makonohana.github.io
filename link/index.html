@@ -747,7 +747,7 @@ button {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'blogcomment-2gk8teend7d2667d',
+      envId: 'https://mangodb.vercel.app',
       region: 'ap-guangzhou',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -759,7 +759,7 @@ button {
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'blogcomment-2gk8teend7d2667d',
+      envId: 'https://mangodb.vercel.app',
       region: 'ap-guangzhou',
       urls: [window.location.pathname],
       includeReply: false
