@@ -706,6 +706,13 @@
   </url>
   
   <url>
+    <loc>http://makoblog.love/tags/cdn/</loc>
+    <lastmod>2023-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://makoblog.love/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -721,13 +728,6 @@
   
   <url>
     <loc>http://makoblog.love/tags/%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2023-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://makoblog.love/tags/cdn/</loc>
     <lastmod>2023-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
