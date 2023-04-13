@@ -6,7 +6,7 @@
   <link href="http://makoblog.love/atom.xml" rel="self"/>
   
   <link href="http://makoblog.love/"/>
-  <updated>2023-04-13T12:12:33.549Z</updated>
+  <updated>2023-04-13T13:01:46.471Z</updated>
   <id>http://makoblog.love/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://makoblog.love/posts/520.html"/>
     <id>http://makoblog.love/posts/520.html</id>
     <published>2023-04-13T09:55:21.236Z</published>
-    <updated>2023-04-13T12:12:33.549Z</updated>
+    <updated>2023-04-13T13:01:46.471Z</updated>
     
     
     <summary type="html">常夏之岛的故事 柚子社2008</summary>
@@ -322,6 +322,31 @@
   </entry>
   
   <entry>
+    <title>Hexo博客 | Hexo竟然可以展示PDF</title>
+    <link href="http://makoblog.love/posts/b2fdb571.html"/>
+    <id>http://makoblog.love/posts/b2fdb571.html</id>
+    <published>2023-04-09T12:25:57.991Z</published>
+    <updated>2023-04-11T03:10:48.967Z</updated>
+    
+    
+    <summary type="html">hexo功能加强，增加pdf在线阅读功能</summary>
+    
+    
+    
+    <category term="Docs文檔" scheme="http://makoblog.love/categories/Docs%E6%96%87%E6%AA%94/"/>
+    
+    
+    <category term="教程" scheme="http://makoblog.love/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Hexo" scheme="http://makoblog.love/tags/Hexo/"/>
+    
+    <category term="pdf" scheme="http://makoblog.love/tags/pdf/"/>
+    
+    <category term="插件" scheme="http://makoblog.love/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客 | 插件推荐</title>
     <link href="http://makoblog.love/posts/dae98a7e.html"/>
     <id>http://makoblog.love/posts/dae98a7e.html</id>
@@ -343,31 +368,6 @@
     <category term="butterfly" scheme="http://makoblog.love/tags/butterfly/"/>
     
     <category term="插件" scheme="http://makoblog.love/tags/%E6%8F%92%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客 | Hexo竟然可以展示PDF</title>
-    <link href="http://makoblog.love/posts/b2fdb571.html"/>
-    <id>http://makoblog.love/posts/b2fdb571.html</id>
-    <published>2023-04-09T12:25:57.991Z</published>
-    <updated>2023-04-11T03:10:48.967Z</updated>
-    
-    
-    <summary type="html">hexo功能加强，增加pdf在线阅读功能</summary>
-    
-    
-    
-    <category term="Docs文檔" scheme="http://makoblog.love/categories/Docs%E6%96%87%E6%AA%94/"/>
-    
-    
-    <category term="教程" scheme="http://makoblog.love/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Hexo" scheme="http://makoblog.love/tags/Hexo/"/>
-    
-    <category term="插件" scheme="http://makoblog.love/tags/%E6%8F%92%E4%BB%B6/"/>
-    
-    <category term="pdf" scheme="http://makoblog.love/tags/pdf/"/>
     
   </entry>
   
