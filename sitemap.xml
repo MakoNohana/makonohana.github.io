@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://makoblog.love/posts/894.html</loc>
+    
+    <lastmod>2023-04-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://makoblog.love/music/index.html</loc>
     
     <lastmod>2023-04-15</lastmod>
@@ -542,7 +551,7 @@
   </url>
   
   <url>
-    <loc>http://makoblog.love/posts/b48f40bd.html</loc>
+    <loc>http://makoblog.love/posts/eb769414.html</loc>
     
     <lastmod>2022-11-20</lastmod>
     
@@ -551,7 +560,7 @@
   </url>
   
   <url>
-    <loc>http://makoblog.love/posts/eb769414.html</loc>
+    <loc>http://makoblog.love/posts/b48f40bd.html</loc>
     
     <lastmod>2022-11-20</lastmod>
     
@@ -715,6 +724,13 @@
   </url>
   
   <url>
+    <loc>http://makoblog.love/tags/cdn/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://makoblog.love/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -736,13 +752,6 @@
   </url>
   
   <url>
-    <loc>http://makoblog.love/tags/cdn/</loc>
-    <lastmod>2023-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://makoblog.love/tags/GalGame/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -758,6 +767,27 @@
   
   <url>
     <loc>http://makoblog.love/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://makoblog.love/tags/%E3%81%88%E3%82%93%E3%81%93%E3%81%86/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://makoblog.love/tags/%E6%B1%9A%E3%82%8C%E3%82%8B/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://makoblog.love/tags/%E5%B0%91%E5%A5%B3/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -816,6 +846,13 @@
   
   <url>
     <loc>http://makoblog.love/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2023-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://makoblog.love/categories/%E5%B0%8F%E8%AA%AC/</loc>
     <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
